@@ -1,2 +1,2 @@
-# site
-Main ebsite
+# Site
+Main SPA Website
