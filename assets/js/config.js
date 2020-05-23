@@ -1,0 +1,1 @@
+window['api'] = 'https://api-fai0obwos.now.sh/';

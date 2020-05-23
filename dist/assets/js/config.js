@@ -1,1 +1,0 @@
-window['api'] = 'http://localhost:5000/';
