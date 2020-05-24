@@ -233,16 +233,16 @@ a,
 }
 
 
-.arcon-pulse {
+.bulbly-pulse {
   width: 40px;
   height: 40px;
   margin: 40px auto;
   background-color: #2196F3;
   border-radius: 100%;
-  -webkit-animation: arcon-pulseScaleOut 1s infinite ease-in-out;
-          animation: arcon-pulseScaleOut 1s infinite ease-in-out; }
+  -webkit-animation: bulbly-pulseScaleOut 1s infinite ease-in-out;
+          animation: bulbly-pulseScaleOut 1s infinite ease-in-out; }
 
-@-webkit-keyframes arcon-pulseScaleOut {
+@-webkit-keyframes bulbly-pulseScaleOut {
   0% {
     -webkit-transform: scale(0);
             transform: scale(0); }
@@ -251,7 +251,7 @@ a,
             transform: scale(1);
     opacity: 0; } }
 
-@keyframes arcon-pulseScaleOut {
+@keyframes bulbly-pulseScaleOut {
   0% {
     -webkit-transform: scale(0);
             transform: scale(0); }
