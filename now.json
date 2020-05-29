@@ -1,6 +1,5 @@
 {
     "version": 1,
-    "alias": "bulbly.online",
     "routes": [
         {
             "src": "/(.*)"
